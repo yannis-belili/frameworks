@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #222;
+}
+
+h2 {
+  color: #1d4e89;
+  margin-bottom: 2rem;
+}
+
+.navbar-dunkel {
+  background-color: #12263f;
+}
+
+.startbereich {
+  background-color: #1d4e89;
+  color: white;
+  padding: 6rem 0;
+}
+
+.startbereich h1 {
+  font-size: 3rem;
+}
+
+.abschnitt {
+  padding: 4rem 0;
+}
+
+.abschnitt-hell {
+  background-color: #f4f6fa;
+}
+
+.profilbild {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.fertigkeit {
+  background-color: #1d4e89;
+  font-size: 1rem;
+}
+
+.projekt-bild {
+  height: 180px;
+  object-fit: cover;
+}
+
+.card-footer {
+  background-color: white;
+  border-top: none;
+}
+
+.formular {
+  max-width: 700px;
+}
+
+.btn-primary {
+  background-color: #1d4e89;
+  border-color: #1d4e89;
+}
+
+.btn-primary:hover {
+  background-color: #12263f;
+  border-color: #12263f;
+}
+
+a:focus,
+button:focus,
+input:focus,
+textarea:focus {
+  outline: 3px solid #f2c14e;
+  outline-offset: 2px;
+}
+
+.fusszeile {
+  background-color: #12263f;
+  color: white;
+  text-align: center;
+  padding: 1.5rem 0;
+}
+
+.fusszeile p {
+  margin: 0;
+}
